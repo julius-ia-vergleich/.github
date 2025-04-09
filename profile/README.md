@@ -13,11 +13,6 @@
 
 <h3>Einsatzgebiete für Data Scientists und analytische Teams</h3>
 
-<img src="https://awsmp-logos.s3.amazonaws.com/seller-zfm3r7g5w44vs/9273a720658e96bb855888e45cd78ea4.png"
-  alt="comparative with julius"
-  width="750"
-  height=450
-
 <p>Datenanalysen gehören zum Grundwerkzeug eines jeden Data Scientists. Lösungen wie Julius IA oder DataChat erleichtern den Arbeitsalltag dieser Nutzer enorm. DataChat kombiniert beispielsweise eine No-Code-Oberfläche mit KI-basierter Automatisierung: Die Vorverarbeitung der Daten sowie das Identifizieren von Ausreißern erfolgen weitgehend automatisch. Dies spart wertvolle Zeit bei Routinetätigkeiten und erlaubt analytischen Teams, sich stärker auf tiefergehende Analysen und Modellierungen zu konzentrieren.</p>
 
 <a target="_blank" href="https://julius.ai?via=new">Klicken Sie hier, um kostenlosen Zugriff zu erhalten!</a>
