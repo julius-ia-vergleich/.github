@@ -70,11 +70,23 @@
 
 <p>Durch eine Reduktion manueller Abfragen erhalten Fachanwender nachweislich schnellere Entscheidungen. Erfahrungsberichte zeigen, dass sich mit Rasgo bis zu 40 Prozent weniger Zeitaufwand für Routineabfragen und Berichterstellung feststellen lassen.</p> 
 
+<img src="https://venturebeat.com/wp-content/uploads/2023/08/rasgo.png"
+  alt="comparative with julius"
+  width="750"
+  height="400"
+/>
+
 <p>Fazit: Während DataChat deutlich mehr Struktur bei der Verwaltung komplexer Datenbestände bietet, ist Rasgo optimal für Teams geeignet, die schnelle, intuitive Antworten bevorzugen. Unternehmen sollten ihre Entscheidung für eine Julius IA-Alternative dementsprechend an den individuellen Workflow und an die Komplexität der vorliegenden Analysesituation knüpfen.</p>
 <h2>Preisgestaltung und Leistung: Julius IA, DataChat und Rasgo im Vergleich</h2>
 
 <h3>Kostenstruktur und Lizenzmodelle</h3>
 <p>Bei der Wahl einer Plattform für eine KI-basierte Datenanalyse spielen Kosten- und Lizenzmodelle eine große Rolle. Julius IA bietet flexible Lizenzoptionen, die sich individuell an Unternehmensgröße und Analyseumfang anpassen. Im Vergleich dazu setzt DataChat auf transparente monatliche Abos, die ab 499 Euro starten und unbegrenzten Zugriff auf Basis-Features beinhalten. Besonders interessant bei Rasgo ist hingegen das volumenabhängige Preismodell, bei dem Nutzer nach Anzahl der analysierten Datensätze zahlen. Dieses Modell eignet sich optimal für Unternehmen mit schwankendem Analysebedarf.</p>
+
+<img src="https://play-lh.googleusercontent.com/UlM5JC7mHWr370Nmtegfi0EvaNt5v9i9ingD8Ycj-4uC7BWWDufBOWRSoi_RLd-xQ5Rj"
+  alt="comparative with julius"
+  width="750"
+  height="400"
+/>
 
 <a target="_blank" href="https://julius.ai?via=new">Klicken Sie hier, um kostenlosen Zugriff zu erhalten!</a>
 
